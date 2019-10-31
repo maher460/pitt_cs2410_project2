@@ -13,5 +13,7 @@ To run:
 
 `
 javac CacheSimulator.java  
+`
+`
 java CacheSimulator 8 32 4 ../test/trace0
 `
