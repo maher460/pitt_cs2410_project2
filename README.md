@@ -11,9 +11,7 @@ associtivity: Number of set associtivity
 
 To run:
 
-`
-javac CacheSimulator.java  
-`
-`
+```
+javac CacheSimulator.java
 java CacheSimulator 8 32 4 ../test/trace0
-`
+```
